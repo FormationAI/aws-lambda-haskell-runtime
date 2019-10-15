@@ -4,4 +4,3 @@ module Aws.Lambda
 
 import Aws.Lambda.Configuration as Reexported
 import Aws.Lambda.Runtime as Reexported
-import Aws.Lambda.Runtime.Context as Reexported
